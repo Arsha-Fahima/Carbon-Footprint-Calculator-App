@@ -41,47 +41,14 @@ The global annual carbon footprint has now surpassed an alarming 40 billion tons
 ## 👩‍🏫How to use
 Firstly, enter https://carbonfootprintcalculator.streamlit.app/. If the app is asleep due to Streamlit's policy, please wait a few moments for it to wake up.
 
-Click to:
 
-![image](https://github.com/hariesh07/Carbon-Footprint-Calculator-App/assets/72805471/d53054cb-ea4a-4667-a635-b45e747f7cbe)
+Once on the page, you'll find five tabs. Begin by filling out the form as shown in the image below.
 
-Once on the page, you'll find five tabs. Begin by filling out the form as shown in the image below:
+After completing the form, navigate to the 'Consumption' tab and click on the designated button.
 
-![image](https://github.com/hariesh07/Carbon-Footprint-Calculator-App/assets/72805471/d052317d-30d0-41bd-bf11-df4768e7e682)
+This will display your Monthly Carbon Footprint as an image.
 
-After completing the form, navigate to the 'Consumption' tab and click on the designated button, as indicated in the image:
-![image](https://github.com/hariesh07/Carbon-Footprint-Calculator-App/assets/72805471/4b256b3e-36a1-47bf-8774-e14a590a528e)
+If you wish to offset your carbon footprint, you can proceed by donating trees.
 
-This will display your Monthly Carbon Footprint as an image, as shown here:
-
-![image](https://github.com/hariesh07/Carbon-Footprint-Calculator-App/assets/72805471/c8368830-0c99-495e-b7a4-2c35b1910fa3)
-
-If you wish to offset your carbon footprint, you can proceed by donating trees to a reforestation charity in Turkey, as depicted in the following image:
-
-![image](https://github.com/hariesh07/Carbon-Footprint-Calculator-App/assets/72805471/d582a3a0-8c76-438c-bff3-3e0f33c99141)
-
-
-
-## 👨‍👩‍👧‍👦Team Members 
-
-- ### 🙋‍♂️Hariesh Ramiya Premnathbabu
-
-<a target="_blank" href="https://www.linkedin.com/in/harieshrp/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-
-- ### 🙋‍♀️Arsha Fahima Tajdeen
-
-<a target="_blank" href="https://www.linkedin.com/in/arsha-fahima/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-
-- ### 🙋‍♂️Kader Mohideen Nafeez
-
-<a target="_blank" href="https://www.linkedin.com/in/kader-mohideen-nafeez-b58127282/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-
-- ### 🙋‍♀️Darshini S B
-
-<a target="_blank" href="https://www.linkedin.com/in/darshini-sb-6639a7256/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-
-- ### 🙋‍♂️Mohammed Quasim 
-
-<a target="_blank" href="https://www.linkedin.com/in/mohammedquasimda/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
 
